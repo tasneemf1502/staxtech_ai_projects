@@ -1,0 +1,90 @@
+{
+  "intents": [
+
+    {
+      "tag": "internship_info",
+      "patterns": [
+        "tell me about internship",
+        "what is staxtech internship",
+        "internship details",
+        "explain internship"
+      ],
+      "responses": [
+        "The StaxTech internship is a one month virtual learning program where students complete projects in domains like Artificial Intelligence, Machine Learning, Web Development and Cloud Computing."
+      ]
+    },
+
+    {
+      "tag": "internship_duration",
+      "patterns": [
+        "what is internship duration",
+        "how long is internship",
+        "internship period"
+      ],
+      "responses": [
+        "The internship runs from 20 February 2026 to 20 March 2026."
+      ]
+    },
+
+    {
+      "tag": "certificate",
+      "patterns": [
+        "will i get certificate",
+        "internship certificate",
+        "certification"
+      ],
+      "responses": [
+        "Yes. Interns may receive certificates like Internship Completion Certificate, Project Certificate and Experience Certificate based on performance."
+      ]
+    },
+
+    {
+      "tag": "beginner_projects",
+      "patterns": [
+        "beginner projects",
+        "easy projects",
+        "suggest beginner projects"
+      ],
+      "responses": [
+        "Beginner projects include Calculator, To-Do List, Quiz Game, Password Generator and Rock Paper Scissors Game."
+      ]
+    },
+
+    {
+      "tag": "advanced_projects",
+      "patterns": [
+        "advanced projects",
+        "hard projects",
+        "complex projects"
+      ],
+      "responses": [
+        "Advanced projects include Blog Website, E-Commerce Website and Student Management System."
+      ]
+    },
+
+    {
+      "tag": "portfolio_project",
+      "patterns": [
+        "portfolio project",
+        "what is portfolio website"
+      ],
+      "responses": [
+        "A portfolio is a personal website that showcases your skills, projects and achievements. It usually includes sections like About Me, Skills, Projects and Contact."
+      ]
+    },
+
+    {
+      "tag": "contact_support",
+      "patterns": [
+        "how to contact staxtech",
+        "internship contact",
+        "support email",
+        "who should i contact"
+      ],
+      "responses": [
+        "For internship queries contact StaxTech.\nEmail: Staxtechinfo@gmail.com\nFounder: Mr Pawan Kushwaha\nLinkedIn: StaxTech"
+      ]
+    }
+
+  ]
+}
